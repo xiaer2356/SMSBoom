@@ -1,30 +1,3 @@
-![logo](img/smsboom-logo.png)
-
-![test](img/test2.gif)
-
-## AD
-
-![https://www.smartproxy.cn/regist?invite=528DHX](https://www.smartproxy.cn/_nuxt/img/logo1.1af8601.png)  
-
-👆👆👆**点 [点击进入官网](https://www.smartproxy.cn/regist?invite=528DHX) 我**👆👆👆
-
-**本项目 OP 推荐的最具性价比最优秀的代理 IP 网站：[SmartProxy](https://www.smartproxy.cn/regist?invite=528DHX)
-代理IP池项目,主打1亿真实住宅IP资源，专业海外http代理商，千万级优质资源，覆盖全球城市，高匿稳定提供100%原生住宅IP，支持社交账户、电商平台、网络数据收集等服务。  
-提供API和账密提取使用方式，动态和静态住宅代理均有，大部分是真人住宅IP，成功率杠杠的。  
-付费套餐选择多样，现在价格很优惠，动态住宅代理只要65折！  
-适合注册各种海外账号 ChatGPT、PayPly、TikTok、亚马逊，个人工作室账号运营。**
-
-## 三件事
-
-1. 原作者 *@whalefell* 為保障自身安全及規避風險,於 `2022/7/6` 將本倉庫移交給我.至此,本倉庫所有事務與原作者無關.
-2. 介於本項目在簡中 **GitHub** 圈影響較大,請大家遵守自己所在國家地區的相關法律,**違反法律者與開發者無關**.
-3. 請大家理智甄別,獨立思考.
-
-## 免责声明
-
-1. 若使用者滥用本项目,本人 **无需承担** 任何法律责任.  
-2. 本程序仅供娱乐,源码全部开源,**禁止滥用** 和二次 **贩卖盈利**.  **禁止用于商业用途**.
-
 ## Feature
 
 1. 通过自定义 `api.json` 的方式定义接口.  
